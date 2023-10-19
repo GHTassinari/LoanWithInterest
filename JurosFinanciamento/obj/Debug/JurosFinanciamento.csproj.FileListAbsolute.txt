@@ -1,0 +1,20 @@
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.Form1.resources
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.Properties.Resources.resources
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\bin\Debug\JurosFinanciamento.exe.config
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\bin\Debug\JurosFinanciamento.exe
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\bin\Debug\JurosFinanciamento.pdb
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.exe
+D:\Usuario\Desktop\Estudo\Faculdade\2 Semestre\Linguagens II\C#\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\bin\Debug\JurosFinanciamento.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\bin\Debug\JurosFinanciamento.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\bin\Debug\JurosFinanciamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.Form1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Teste\InstitutoFederal\C# Language\JurosFinanciamento\JurosFinanciamento\JurosFinanciamento\obj\Debug\JurosFinanciamento.pdb
