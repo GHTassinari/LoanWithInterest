@@ -7,4 +7,4 @@ Ele irá te dar um resultado, após pressionar o botão de cálculo, possuindo o
 This project makes a financing calculation, using the loan amount, annual interest rate in % and number of installments.
 It will give you a result, after pressing the calculation button, containing the installment amount, the interest amount, and the total amount to be paid.
 
-![image](https://github.com/GHTassinari/InstitutoFederal/assets/102005103/9f675f71-9b16-4a72-b6ae-833b26d1c06f)
+![image](https://github.com/GHTassinari/AppRealDolar/assets/102005103/1ba6428e-0203-450e-b2c0-d0a57617e7f1)
